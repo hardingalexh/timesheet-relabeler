@@ -15,7 +15,7 @@ While this has been submitted for review as an actual chrome extension, it is in
 See the documentation for [installing an unpacked extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) here.
 
 ### Arc
-??? 
+The instructions are similar to the Chrome instructions. Open the `Manage Extensions` page, turn on the `Developer Mode` toggle in the upper right, and a `Load unpaked` button should appear near the top to load the extension. 
 
 ## Usage
 Right-click the ReLabeler Icon which looks like this:
