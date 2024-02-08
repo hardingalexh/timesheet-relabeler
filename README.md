@@ -12,15 +12,18 @@ Take a look at this radical example!
 
 ### Before
 ![Timesheet Before](https://github.com/hardingalexh/timesheet-relabeler/blob/main/marketing/timesheet_before.png?raw=true)
+
 DATA TOOL? I've got a hundred of those!
 TASK9DATATOOL2? Where are the spaces? Show some decorum!
 
 ### Preferences
 ![Configuration](https://github.com/hardingalexh/timesheet-relabeler/blob/main/marketing/relabeler_prefs.png?raw=true)
+
 Simply add your mapping for what you'd like the text to say. Not all projects are cool, but if you label them that way, they may be one day.
 
 ### After
 ![Configuration](https://github.com/hardingalexh/timesheet-relabeler/blob/main/marketing/timesheet_after.png?raw=true)
+
 Like magic! Your labels are now provided.
 
 ## Installation
