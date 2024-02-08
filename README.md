@@ -27,25 +27,14 @@ Simply add your mapping for what you'd like the text to say. Not all projects ar
 Like magic! Your labels are now provided.
 
 ## Installation
-While this has been submitted for review as an actual chrome/firefox extension, it is installable NOW! Download this repository and install it:
 
-### Chrome
-See the documentation for [installing an unpacked extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked) here.
-
-### Arc
-The instructions are similar to the Chrome instructions. Open the `Manage Extensions` page, turn on the `Developer Mode` toggle in the upper right, and a `Load unpacked` button should appear near the top to load the extension. 
+### Chrome and Arc
+Timesheet Re-Labeler is available as a [chrome extension](https://chromewebstore.google.com/detail/timesheet-relabeler/mcmhhlbppfmhndjbofacgicknkhfgjmm?hl=en&authuser=0).
 
 ### Firefox
-Using unsigned extensions requires [Firefox Developer Edition](https://www.mozilla.org/en-US/firefox/developer/).
+A firefox add-on is officially available and signed. From the add-ons management screen (type `about:addons` into your browser), click the settings cog and choose `Install Add-On From File...`. In the menu, select the `timesheet-relabeler-1-0.xpi` file in this repository.
 
-
-* Type `about:config` into your menu bar. 
-* Search for `xpinstall.signatures.required` and set it to `false`.
-    * This allows you to install unsigned extensions. Please don't otherwise do that.
-* In the Firefox extensions screen, click the settings cog and navigate to "Install Add-On From File"
-* Choose the `timesheet-relabeler-firefox.xpi` included in this repository
-
-Once installed, select the "manage extension" menu option, and under "permissions" allow data access.
+This should be available as an official add-on soon too.
 
 ## Usage
 Right-click the ReLabeler Icon which looks like this:
